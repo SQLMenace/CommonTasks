@@ -5,7 +5,7 @@ Frequently you will be asked how much longer a restore will take because someone
 This will tell you how long is elapsed and how long is still remaining
 
 
-'''SQL
+```SQL
 SELECT  
     d.PERCENT_COMPLETE AS [%Complete],
     d.TOTAL_ELAPSED_TIME/60000 AS ElapsedTimeMin,
@@ -17,4 +17,4 @@ FROM    sys.dm_exec_requests d
 CROSS APPLY sys.dm_exec_sql_text(d.sql_handle)as s
 WHERE  d.COMMAND LIKE 'RESTORE DATABASE%'
 ORDER   BY 2 desc, 3 DESC
-'''
+```
