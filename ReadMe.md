@@ -12,7 +12,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 ---
 
 ### SQL Server
-- [placeholder](/SQL Server/Placeholder.md)
+- [How much longer will the database restore take](/SQL Server/How much longer will the restore take.md)
 
 ### Powershell
 - [placeholder](Powershell/Placeholder.md)
