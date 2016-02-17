@@ -41,7 +41,8 @@ And you run this
 	   where object_name(object_id) like '%' + @TableTpeName + '%'
 
 	   SELECT @name = LEFT(@name,LEN(@name)-1)
-	   SELECT @name = 'DECLARE @TVP ' + @TableTpeName + char(13) + char(10) + 'INSERT @TVP '+ char(13) + char(10) + @name
+	   SELECT @name = 'DECLARE @TVP ' + @TableTpeName + char(13) + char(10) 
+	   + 'INSERT @TVP '+ char(13) + char(10) + @name
 	   SELECT @name 
 ```
 
