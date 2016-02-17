@@ -14,7 +14,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 ### SQL Server
 - [How much longer will the database restore take](/SQL Server/How much longer will the restore take.md)
 - [Return all stored procedures that contain certain text](/SQL Server/Return all stored procedures that contain certain text.md)
-- [Return columns for a user defined table type](/SQL Server/ReturnColumnsForTableTypet.md)
+- [Return columns for a user defined table type](/SQL Server/ReturnColumnsForTableType.md)
 
 
 
