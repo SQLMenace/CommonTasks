@@ -11,5 +11,5 @@ WHERE EXISTS(SELECT NULL
                 WHERE s.object_id = s2.object_id 
                 AND partition_number > 1
                 AND s.index_id = s2.index_id)
-order by object_name(object_id),index_id,rows desc
+ORDER BY object_name(object_id),index_id,rows DESC
 ```
