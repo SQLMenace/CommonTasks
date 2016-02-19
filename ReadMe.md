@@ -21,6 +21,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 - [Return columns for a user defined table type](/SQL Server/ReturnColumnsForTableType.md)
 - [Returning a value inserted in a table with a newsequentialid() default on a uniqueidentifier column.md](/SQL Server/Returning a value inserted in a table with a newsequentialid() default on a uniqueidentifier column.md)
 - [Index Fragmentation](/SQL Server/Index Fragmentation.md)
+- [Who is connected to my server](/SQL Server/Who is connected to my server.md)
 
 
 
