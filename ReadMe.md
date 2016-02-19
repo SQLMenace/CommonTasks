@@ -24,4 +24,4 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 
 
 ### Powershell
-- [Export SQL Server query results in a csv file](Powershell/Export SQL Server query results in a csv file.md)
+- [Export SQL Server query results into a csv file](Powershell/Export SQL Server query results into a csv file.md)
