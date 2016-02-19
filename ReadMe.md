@@ -18,6 +18,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 - [Listing all RESTORE and BACKUP operations currently going on your SQL Server](/SQL Server/Listing all RESTORE and BACKUP operations currently going on your SQL Server.md)
 - [Return all stored procedures that contain certain text](/SQL Server/Return all stored procedures that contain certain text.md)
 - [Return columns for a user defined table type](/SQL Server/ReturnColumnsForTableType.md)
+- [Returning a value inserted in a table with a newsequentialid() default on a uniqueidentifier column.md(/SQL Server/Returning a value inserted in a table with a newsequentialid() default on a uniqueidentifier column.md)
 - [Index Fragmentation](/SQL Server/Index Fragmentation.md)
 
 
