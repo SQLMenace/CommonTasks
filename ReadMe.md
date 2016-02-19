@@ -25,4 +25,4 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 
 ### Powershell
 - [Export SQL Server query results into a csv file](Powershell/Export SQL Server query results into a csv file.md)
-- [List the 10 biggest files in a directory](List the 10 biggest files in a directory.md)
+- [List the 10 biggest files in a directory](Powershell/List the 10 biggest files in a directory.md)
