@@ -23,7 +23,7 @@ And you run this
 	   select 'DECLARE @' + c.name + ' ' +  t.name + 
 	   case when c.user_type_id =167 then '(' + convert(varchar(100),c.max_length) + ')'  + ' = ''Bla''' 
 	        when c.user_type_id in(106,108) then '(' + convert(varchar(100),c.precision) + ',' + convert(varchar(100),c.scale) + ')'  + ' = 0' 
-	        when c.user_type_id in(56,127,104) then '' + ' = 0' 
+	        when c.user_type_id in(52,56,127,104) then '' + ' = 0' 
 			when c.user_type_id in(61) then '' + ' = ''20131210''' 
 	   end as ScalePrecision 
 	   from sys.all_columns c
