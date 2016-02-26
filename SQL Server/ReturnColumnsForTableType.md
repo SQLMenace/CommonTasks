@@ -1,5 +1,5 @@
 
-If you have a user defined table type and you need to know quickly generate some varianle with the same type, you csan use this code
+If you have a user defined table type and you need to know quickly generate some variables with the same type, you csan use this code
 
 For example if this is your table type
 
