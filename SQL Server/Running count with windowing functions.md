@@ -61,4 +61,4 @@ id	StartDate	Enddate	Charge	RunningTotal
 3	2012-01-01	9999-12-31	100.0000000000	100.0000000000
 ```
 
-Explainned here [Easy running totals with windowing functions](http://sqlservercode.blogspot.com/2016/03/easy-running-totals-with-windowing.html)
+Explained here [Easy running totals with windowing functions](http://sqlservercode.blogspot.com/2016/03/easy-running-totals-with-windowing.html)
