@@ -1,3 +1,5 @@
+This code will return a bunch of dates, it also will give you the diff between the previous date. It excludes weekends, if you have a holiday table.. add it to the and not exists clause
+
 
 ```SQL
 declare @date date = '20160301' --getdate() - 10 -- your start range
