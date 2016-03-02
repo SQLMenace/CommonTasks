@@ -14,4 +14,4 @@ FROM    sys.identity_columns
 ORDER BY SchemaName ,
         TableName ,
         Column_id;
-        ```
+```
