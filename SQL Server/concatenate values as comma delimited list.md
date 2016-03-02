@@ -27,7 +27,7 @@ DECLARE @ColumnList VARCHAR(8000)
  
 SELECT LEFT(@ColumnList,(LEN(@ColumnList) -1))
 ```
-and here is what the output looks like
+And here is what the output looks like
 ```
 id, name, SomeDate, SomeCode, CurrencyCode
 ```
