@@ -1,7 +1,9 @@
 
 ```SQL
-declare @date date = '20160301' --getdate() - 10
-declare @Enddate date = '20160310' --getdate()
+declare @date date = '20160301' --getdate() - 10 -- your start range
+declare @Enddate date = '20160310' --getdate()   -- your end range
+
+
 ;with cte as(
 select *, ROW_NUMBER() over(order by Thedate) as row
 from(
