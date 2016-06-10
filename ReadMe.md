@@ -18,7 +18,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 - [List all tables that are truly partitioned](/SQL Server/List all tables that are truly partitioned.md)
 - [List all tables with identity columns](/SQL Server/List all tables with identity columns.md)
 - [Listing all RESTORE and BACKUP operations currently going on your SQL Server](/SQL Server/Listing all RESTORE and BACKUP operations currently going on your SQL Server.md)
-- [Renaming A Table](/SQL Server/Renaming A Table.MD)
+- [Renaming a Table](/SQL Server/Renaming A Table.MD)
 - [Return a range of dates minus weekends and holidays](/SQL Server/Return a range of dates minus weekends and holidays.md)
 - [Return all stored procedures that contain certain text](/SQL Server/Return all stored procedures that contain certain text.md)
 - [Return columns for a user defined table type](/SQL Server/ReturnColumnsForTableType.md)
