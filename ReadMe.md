@@ -12,7 +12,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 ---
 
 ### SQLServer
-- [Concatenate values as comma delimited list](/SQL Server/concatenate values as comma delimited list.md)
+- [Concatenate values as comma delimited list](/SQLServer/concatenate-values-as-comma-delimited-list.md)
 - [Getting file size, space used and space free information for a SQL Server database](/SQLServer/Getting-file-size,-space-used-and-space-free-information-for-a-SQL-Server-database.md)
 - [How much longer will the database restore take](/SQLServer/How-much-longer-will-the-restore-take.md)
 - [List all tables that are truly partitioned](/SQL Server/List all tables that are truly partitioned.md)
