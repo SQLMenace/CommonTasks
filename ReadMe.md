@@ -16,7 +16,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 - [Getting file size, space used and space free information for a SQL Server database](/SQLServer/Getting-file-size,-space-used-and-space-free-information-for-a-SQL-Server-database.md)
 - [How much longer will the database restore take](/SQLServer/How-much-longer-will-the-restore-take.md)
 - [List all tables that are truly partitioned](/SQLServer/List-all-tables-that-are-truly-partitioned.md)
-- [List all tables with identity columns](/SQL Server/List all tables with identity columns.md)
+- [List all tables with identity columns](/SQLServer/List-all-tables-with-identity-columns.md)
 - [Listing all RESTORE and BACKUP operations currently going on your SQL Server](/SQL Server/Listing all RESTORE and BACKUP operations currently going on your SQL Server.md)
 - [Renaming a Table](/SQL Server/Renaming A Table.MD)
 - [Return a range of dates minus weekends and holidays](/SQL Server/Return a range of dates minus weekends and holidays.md)
