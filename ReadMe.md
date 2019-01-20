@@ -20,7 +20,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 1. [Listing all RESTORE and BACKUP operations currently going on your SQL Server](/SQLServer/Listing-all-RESTORE-and-BACKUP-operations-currently-going-on-your-SQL-Server.md)
 1. [Renaming a Table](/SQLServer/Renaming-A-Table.MD)
 1. [Return a range of dates minus weekends and holidays](/SQLServer/Return-a-range-of-dates-minus-weekends-and-holidays.md)
-1. [Return all stored procedures that contain certain text](/SQL Server/Return all stored procedures that contain certain text.md)
+1. [Return all stored procedures that contain certain text](/SQLServer/Return-all-stored-procedures-that-contain-certain-text.md)
 1. [Return columns for a user defined table type](/SQL Server/ReturnColumnsForTableType.md)
 1. [Returning a value inserted in a table with a newsequentialid() default on a uniqueidentifier column](/SQL Server/Returning a value inserted in a table with a newsequentialid() default on a uniqueidentifier column.md)
 1. [Running count with windowing functions](/SQL Server/Running count with windowing functions.md)
