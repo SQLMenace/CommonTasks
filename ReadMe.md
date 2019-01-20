@@ -23,7 +23,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 1. [Return all stored procedures that contain certain text](/SQLServer/Return-all-stored-procedures-that-contain-certain-text.md)
 1. [Return columns for a user defined table type](/SQLServer/ReturnColumnsForTableType.md)
 1. [Returning a value inserted in a table with a newsequentialid() default on a uniqueidentifier column](/SQLServer/Returning-a-value-inserted-in-a-table-with-a-newsequentialid()-default-on-a-uniqueidentifier-column.md)
-1. [Running count with windowing functions](/SQL Server/Running count with windowing functions.md)
+1. [Running count with windowing functions](/SQLServer/Running-count-with-windowing-functions.md)
 1. [Index Fragmentation](/SQLServer/Index-Fragmentation.md)
 1. [Who is connected to my server](/SQL Server/Who is connected to my server.md)
 
