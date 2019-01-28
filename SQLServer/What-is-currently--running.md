@@ -1,4 +1,4 @@
-Here is a query that can be used to find out what is currently going on on the DB server
+Here is a query that can be used to find out what is currently going on on the DB server. These is for user processes only, if you want system processes as well take out sp.is_user_process = 1
 
 ```SQL
 
