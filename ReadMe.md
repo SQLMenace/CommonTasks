@@ -27,6 +27,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 1. [Index Fragmentation](/SQLServer/Index-Fragmentation.md)
 1. [Who is connected to my server](/SQLServer/Who-is-connected-to-my-server.md)
 1. [When were the databases backed up?](/SQLServer/when-was-the-database-backed-up.md)
+1. [What is currently running on the server](/SQLServer/What-is-currently--running.md)
 
 
 ### Powershell
