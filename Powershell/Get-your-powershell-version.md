@@ -9,6 +9,7 @@ $PSVersionTable
 
 Here is what it looks like, use the top command to get the PS version only, the bottom one gives you more info
 
+```
 
 PS C:\windows\system32> $PSVersionTable.PSVersion
 
@@ -51,3 +52,5 @@ Name  : SerializationVersion
 Key   : PSRemotingProtocolVersion
 Value : 2.1
 Name  : PSRemotingProtocolVersion
+
+```
