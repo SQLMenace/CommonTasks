@@ -1,4 +1,4 @@
-Here is a quick way to create an Extended Event sessions to filter on a specific database, just replace YourDatabase in the WHERE clause to the database name you are interested in
+Here is a quick way to create an Extended Event sessions to capture when stored procedures were called. This is handy if you want to capture the values of parameters passed in.  To filter on a specific database, just replace YourDatabase in the WHERE clause to the database name you are interested in
 
 
 ```SQL
