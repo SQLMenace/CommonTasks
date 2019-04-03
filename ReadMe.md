@@ -30,7 +30,7 @@ A collection of code that I run on a semi-regular basis to troubleshoot or get a
 1. [What is currently running on the server](/SQLServer/What-is-currently--running.md)
 1. [Using sp_send_dbmail  to email query result](/SQLServer/email-query-by-using-sp_send_dbmail.md)
 1. [Active Extended Events Sessions](/SQLServer/active_extended_events_running.md)
-
+1. [Simple Extended Event Session to check when procs were called](/SQLServer/ExtendedEventsForADatabase.md)
 
 ### Powershell
 - [Export SQL Server query results into a csv file](Powershell/Export-SQL-Server-query-results-into-a-csv-file.md)
