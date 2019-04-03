@@ -9,3 +9,10 @@ FROM sys.dm_xe_sessions AS dxs;
 
 
 ```
+
+This query will give you all the sessions, even the ones that are not running
+
+```SQL
+ SELECT *
+ FROM sys.server_event_sessions 
+ ```
